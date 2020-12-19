@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f8f83e4-7ec5-4293-b1c0-3dfb5b87dd36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aOklkU24vjaALmY6lszQIEB1el" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LEARNING/lear.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.COURSERA">
+    <configuration name="COURSERA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LEARNING" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LEARNING/COURSERA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python 3.7" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LEARNING" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LEARNING/lear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.COURSERA" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.scratch_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8f83e4-7ec5-4293-b1c0-3dfb5b87dd36" name="Default Changelist" comment="" />
+      <created>1586614180479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586614180479</updated>
+      <workItem from="1586614182684" duration="3947000" />
+      <workItem from="1587223827739" duration="1002000" />
+      <workItem from="1587225151422" duration="223000" />
+      <workItem from="1587226013508" duration="2396000" />
+      <workItem from="1587525110334" duration="2699000" />
+      <workItem from="1588736539551" duration="1486000" />
+      <workItem from="1602167123284" duration="5663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1602226032680">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom/0.0.1280.688@0.0.1280.688" timestamp="1602226032679" />
+    <state width="1323" height="123" key="GridCell.Tab.0.bottom/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602195486338" />
+    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1602226032679">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.center/0.0.1280.688@0.0.1280.688" timestamp="1602226032679" />
+    <state width="1323" height="123" key="GridCell.Tab.0.center/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602195486338" />
+    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1602226032679">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.left/0.0.1280.688@0.0.1280.688" timestamp="1602226032679" />
+    <state width="1323" height="123" key="GridCell.Tab.0.left/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602195486338" />
+    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1602226032679">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.right/0.0.1280.688@0.0.1280.688" timestamp="1602226032679" />
+    <state width="1323" height="123" key="GridCell.Tab.0.right/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602195486338" />
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom" timestamp="1602226032680">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom/0.0.1280.688@0.0.1280.688" timestamp="1602226032680" />
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602191293801" />
+    <state width="1323" height="219" key="GridCell.Tab.1.center" timestamp="1602226032680">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.1.center/0.0.1280.688@0.0.1280.688" timestamp="1602226032680" />
+    <state width="1323" height="219" key="GridCell.Tab.1.center/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602191293801" />
+    <state width="1323" height="219" key="GridCell.Tab.1.left" timestamp="1602226032680">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.1.left/0.0.1280.688@0.0.1280.688" timestamp="1602226032680" />
+    <state width="1323" height="219" key="GridCell.Tab.1.left/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602191293801" />
+    <state width="1323" height="219" key="GridCell.Tab.1.right" timestamp="1602226032680">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1280.688@0.0.1280.688" timestamp="1602226032680" />
+    <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602191293801" />
+    <state x="247" y="4" key="SettingsEditor" timestamp="1602194033267">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="247" y="4" key="SettingsEditor/0.0.1366.720/1366.0.1366.738@0.0.1366.720" timestamp="1602194033267" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Practice$COURSERA.coverage" NAME="COURSERA Coverage Results" MODIFIED="1602195486325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LEARNING" />
+    <SUITE FILE_PATH="coverage/Python_Practice$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1602191234058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Python_Practice$python_3_7.coverage" NAME="python 3.7 Coverage Results" MODIFIED="1602191310946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LEARNING" />
+    <SUITE FILE_PATH="coverage/Python_Practice$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1602167380734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Python_Practice$Unnamed.coverage" NAME="python 3.7 Coverage Results" MODIFIED="1586618039389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
